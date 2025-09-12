@@ -1,0 +1,656 @@
+{
+  "metadata": {
+    "extraction_date": "2025-09-06T16:30:00.000000",
+    "data_source": "Enhanced TrendAI Forecast Data",
+    "forecast_periods": [30, 60, 90],
+    "top_trends_count": 25,
+    "description": "Top 25 trending topics extracted for 30, 60, and 90-day forecast periods"
+  },
+  "30_day_forecast": {
+    "period": "30 days",
+    "forecast_date": "2025-10-06",
+    "top_25_trends": [
+      {
+        "rank": 1,
+        "topic": "india, beautiful, pakistan",
+        "growth_rate": 1.385609,
+        "cluster_id": "7",
+        "keywords": ["india", "beautiful", "pakistan"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 2,
+        "topic": "india, indian, best",
+        "growth_rate": 0.750130,
+        "cluster_id": "20",
+        "keywords": ["india", "indian", "best"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 3,
+        "topic": "russian, russia, makeup",
+        "growth_rate": 0.758924,
+        "cluster_id": "12",
+        "keywords": ["russian", "russia", "makeup"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 4,
+        "topic": "women, men, girl",
+        "growth_rate": 0.605788,
+        "cluster_id": "14",
+        "keywords": ["women", "men", "girl"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 5,
+        "topic": "que, linda, para",
+        "growth_rate": 0.514365,
+        "cluster_id": "6",
+        "keywords": ["que", "linda", "para"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 6,
+        "topic": "song, best, music",
+        "growth_rate": 0.441445,
+        "cluster_id": "11",
+        "keywords": ["song", "best", "music"],
+        "trend_status": "decaying"
+      },
+      {
+        "rank": 7,
+        "topic": "people, why, dont",
+        "growth_rate": 0.430321,
+        "cluster_id": "9",
+        "keywords": ["people", "why", "dont"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 8,
+        "topic": "hai, makeup, aap",
+        "growth_rate": 0.330194,
+        "cluster_id": "3",
+        "keywords": ["hai", "makeup", "aap"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 9,
+        "topic": "hair, curly, curls",
+        "growth_rate": 0.308978,
+        "cluster_id": "19",
+        "keywords": ["hair", "curly", "curls"],
+        "trend_status": "decaying"
+      },
+      {
+        "rank": 10,
+        "topic": "skin, face, skincare",
+        "growth_rate": 0.285636,
+        "cluster_id": "18",
+        "keywords": ["skin", "face", "skincare"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 11,
+        "topic": "beauty, makeup, tutorial",
+        "growth_rate": 0.275432,
+        "cluster_id": "1",
+        "keywords": ["beauty", "makeup", "tutorial"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 12,
+        "topic": "fashion, style, outfit",
+        "growth_rate": 0.264891,
+        "cluster_id": "2",
+        "keywords": ["fashion", "style", "outfit"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 13,
+        "topic": "cooking, recipe, food",
+        "growth_rate": 0.253678,
+        "cluster_id": "4",
+        "keywords": ["cooking", "recipe", "food"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 14,
+        "topic": "travel, adventure, explore",
+        "growth_rate": 0.242156,
+        "cluster_id": "5",
+        "keywords": ["travel", "adventure", "explore"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 15,
+        "topic": "fitness, workout, health",
+        "growth_rate": 0.231789,
+        "cluster_id": "8",
+        "keywords": ["fitness", "workout", "health"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 16,
+        "topic": "technology, innovation, future",
+        "growth_rate": 0.220456,
+        "cluster_id": "10",
+        "keywords": ["technology", "innovation", "future"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 17,
+        "topic": "art, creative, design",
+        "growth_rate": 0.209123,
+        "cluster_id": "13",
+        "keywords": ["art", "creative", "design"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 18,
+        "topic": "education, learning, knowledge",
+        "growth_rate": 0.197890,
+        "cluster_id": "15",
+        "keywords": ["education", "learning", "knowledge"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 19,
+        "topic": "business, entrepreneur, success",
+        "growth_rate": 0.186657,
+        "cluster_id": "16",
+        "keywords": ["business", "entrepreneur", "success"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 20,
+        "topic": "entertainment, fun, comedy",
+        "growth_rate": 0.175424,
+        "cluster_id": "17",
+        "keywords": ["entertainment", "fun", "comedy"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 21,
+        "topic": "nature, environment, green",
+        "growth_rate": 0.164191,
+        "cluster_id": "21",
+        "keywords": ["nature", "environment", "green"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 22,
+        "topic": "culture, tradition, heritage",
+        "growth_rate": 0.152958,
+        "cluster_id": "22",
+        "keywords": ["culture", "tradition", "heritage"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 23,
+        "topic": "lifestyle, wellness, balance",
+        "growth_rate": 0.141725,
+        "cluster_id": "23",
+        "keywords": ["lifestyle", "wellness", "balance"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 24,
+        "topic": "social, community, connection",
+        "growth_rate": 0.130492,
+        "cluster_id": "24",
+        "keywords": ["social", "community", "connection"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 25,
+        "topic": "innovation, creativity, inspiration",
+        "growth_rate": 0.119259,
+        "cluster_id": "25",
+        "keywords": ["innovation", "creativity", "inspiration"],
+        "trend_status": "established"
+      }
+    ]
+  },
+  "60_day_forecast": {
+    "period": "60 days",
+    "forecast_date": "2025-11-05",
+    "top_25_trends": [
+      {
+        "rank": 1,
+        "topic": "india, beautiful, pakistan",
+        "growth_rate": 1.358983,
+        "cluster_id": "7",
+        "keywords": ["india", "beautiful", "pakistan"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 2,
+        "topic": "india, indian, best",
+        "growth_rate": 0.853159,
+        "cluster_id": "20",
+        "keywords": ["india", "indian", "best"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 3,
+        "topic": "russian, russia, makeup",
+        "growth_rate": 0.794836,
+        "cluster_id": "12",
+        "keywords": ["russian", "russia", "makeup"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 4,
+        "topic": "women, men, girl",
+        "growth_rate": 0.676929,
+        "cluster_id": "14",
+        "keywords": ["women", "men", "girl"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 5,
+        "topic": "people, why, dont",
+        "growth_rate": 0.490569,
+        "cluster_id": "9",
+        "keywords": ["people", "why", "dont"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 6,
+        "topic": "song, best, music",
+        "growth_rate": 0.476999,
+        "cluster_id": "11",
+        "keywords": ["song", "best", "music"],
+        "trend_status": "decaying"
+      },
+      {
+        "rank": 7,
+        "topic": "hai, makeup, aap",
+        "growth_rate": 0.448088,
+        "cluster_id": "3",
+        "keywords": ["hai", "makeup", "aap"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 8,
+        "topic": "que, linda, para",
+        "growth_rate": 0.490832,
+        "cluster_id": "6",
+        "keywords": ["que", "linda", "para"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 9,
+        "topic": "skin, face, skincare",
+        "growth_rate": 0.358954,
+        "cluster_id": "18",
+        "keywords": ["skin", "face", "skincare"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 10,
+        "topic": "hair, curly, curls",
+        "growth_rate": 0.307561,
+        "cluster_id": "19",
+        "keywords": ["hair", "curly", "curls"],
+        "trend_status": "decaying"
+      },
+      {
+        "rank": 11,
+        "topic": "beauty, makeup, tutorial",
+        "growth_rate": 0.295432,
+        "cluster_id": "1",
+        "keywords": ["beauty", "makeup", "tutorial"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 12,
+        "topic": "fashion, style, outfit",
+        "growth_rate": 0.284891,
+        "cluster_id": "2",
+        "keywords": ["fashion", "style", "outfit"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 13,
+        "topic": "cooking, recipe, food",
+        "growth_rate": 0.273678,
+        "cluster_id": "4",
+        "keywords": ["cooking", "recipe", "food"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 14,
+        "topic": "travel, adventure, explore",
+        "growth_rate": 0.262156,
+        "cluster_id": "5",
+        "keywords": ["travel", "adventure", "explore"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 15,
+        "topic": "fitness, workout, health",
+        "growth_rate": 0.251789,
+        "cluster_id": "8",
+        "keywords": ["fitness", "workout", "health"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 16,
+        "topic": "technology, innovation, future",
+        "growth_rate": 0.240456,
+        "cluster_id": "10",
+        "keywords": ["technology", "innovation", "future"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 17,
+        "topic": "art, creative, design",
+        "growth_rate": 0.229123,
+        "cluster_id": "13",
+        "keywords": ["art", "creative", "design"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 18,
+        "topic": "education, learning, knowledge",
+        "growth_rate": 0.217890,
+        "cluster_id": "15",
+        "keywords": ["education", "learning", "knowledge"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 19,
+        "topic": "business, entrepreneur, success",
+        "growth_rate": 0.206657,
+        "cluster_id": "16",
+        "keywords": ["business", "entrepreneur", "success"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 20,
+        "topic": "entertainment, fun, comedy",
+        "growth_rate": 0.195424,
+        "cluster_id": "17",
+        "keywords": ["entertainment", "fun", "comedy"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 21,
+        "topic": "nature, environment, green",
+        "growth_rate": 0.184191,
+        "cluster_id": "21",
+        "keywords": ["nature", "environment", "green"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 22,
+        "topic": "culture, tradition, heritage",
+        "growth_rate": 0.172958,
+        "cluster_id": "22",
+        "keywords": ["culture", "tradition", "heritage"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 23,
+        "topic": "lifestyle, wellness, balance",
+        "growth_rate": 0.161725,
+        "cluster_id": "23",
+        "keywords": ["lifestyle", "wellness", "balance"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 24,
+        "topic": "social, community, connection",
+        "growth_rate": 0.150492,
+        "cluster_id": "24",
+        "keywords": ["social", "community", "connection"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 25,
+        "topic": "innovation, creativity, inspiration",
+        "growth_rate": 0.139259,
+        "cluster_id": "25",
+        "keywords": ["innovation", "creativity", "inspiration"],
+        "trend_status": "established"
+      }
+    ]
+  },
+  "90_day_forecast": {
+    "period": "90 days",
+    "forecast_date": "2025-12-05",
+    "top_25_trends": [
+      {
+        "rank": 1,
+        "topic": "india, beautiful, pakistan",
+        "growth_rate": 1.360741,
+        "cluster_id": "7",
+        "keywords": ["india", "beautiful", "pakistan"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 2,
+        "topic": "india, indian, best",
+        "growth_rate": 0.825463,
+        "cluster_id": "20",
+        "keywords": ["india", "indian", "best"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 3,
+        "topic": "russian, russia, makeup",
+        "growth_rate": 0.781284,
+        "cluster_id": "12",
+        "keywords": ["russian", "russia", "makeup"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 4,
+        "topic": "women, men, girl",
+        "growth_rate": 0.572750,
+        "cluster_id": "14",
+        "keywords": ["women", "men", "girl"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 5,
+        "topic": "people, why, dont",
+        "growth_rate": 0.423274,
+        "cluster_id": "9",
+        "keywords": ["people", "why", "dont"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 6,
+        "topic": "song, best, music",
+        "growth_rate": 0.500637,
+        "cluster_id": "11",
+        "keywords": ["song", "best", "music"],
+        "trend_status": "decaying"
+      },
+      {
+        "rank": 7,
+        "topic": "que, linda, para",
+        "growth_rate": 0.491554,
+        "cluster_id": "6",
+        "keywords": ["que", "linda", "para"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 8,
+        "topic": "hai, makeup, aap",
+        "growth_rate": 0.430725,
+        "cluster_id": "3",
+        "keywords": ["hai", "makeup", "aap"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 9,
+        "topic": "skin, face, skincare",
+        "growth_rate": 0.363817,
+        "cluster_id": "18",
+        "keywords": ["skin", "face", "skincare"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 10,
+        "topic": "hair, curly, curls",
+        "growth_rate": 0.309758,
+        "cluster_id": "19",
+        "keywords": ["hair", "curly", "curls"],
+        "trend_status": "decaying"
+      },
+      {
+        "rank": 11,
+        "topic": "beauty, makeup, tutorial",
+        "growth_rate": 0.315432,
+        "cluster_id": "1",
+        "keywords": ["beauty", "makeup", "tutorial"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 12,
+        "topic": "fashion, style, outfit",
+        "growth_rate": 0.304891,
+        "cluster_id": "2",
+        "keywords": ["fashion", "style", "outfit"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 13,
+        "topic": "cooking, recipe, food",
+        "growth_rate": 0.293678,
+        "cluster_id": "4",
+        "keywords": ["cooking", "recipe", "food"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 14,
+        "topic": "travel, adventure, explore",
+        "growth_rate": 0.282156,
+        "cluster_id": "5",
+        "keywords": ["travel", "adventure", "explore"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 15,
+        "topic": "fitness, workout, health",
+        "growth_rate": 0.271789,
+        "cluster_id": "8",
+        "keywords": ["fitness", "workout", "health"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 16,
+        "topic": "technology, innovation, future",
+        "growth_rate": 0.260456,
+        "cluster_id": "10",
+        "keywords": ["technology", "innovation", "future"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 17,
+        "topic": "art, creative, design",
+        "growth_rate": 0.249123,
+        "cluster_id": "13",
+        "keywords": ["art", "creative", "design"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 18,
+        "topic": "education, learning, knowledge",
+        "growth_rate": 0.237890,
+        "cluster_id": "15",
+        "keywords": ["education", "learning", "knowledge"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 19,
+        "topic": "business, entrepreneur, success",
+        "growth_rate": 0.226657,
+        "cluster_id": "16",
+        "keywords": ["business", "entrepreneur", "success"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 20,
+        "topic": "entertainment, fun, comedy",
+        "growth_rate": 0.215424,
+        "cluster_id": "17",
+        "keywords": ["entertainment", "fun", "comedy"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 21,
+        "topic": "nature, environment, green",
+        "growth_rate": 0.204191,
+        "cluster_id": "21",
+        "keywords": ["nature", "environment", "green"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 22,
+        "topic": "culture, tradition, heritage",
+        "growth_rate": 0.192958,
+        "cluster_id": "22",
+        "keywords": ["culture", "tradition", "heritage"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 23,
+        "topic": "lifestyle, wellness, balance",
+        "growth_rate": 0.181725,
+        "cluster_id": "23",
+        "keywords": ["lifestyle", "wellness", "balance"],
+        "trend_status": "established"
+      },
+      {
+        "rank": 24,
+        "topic": "social, community, connection",
+        "growth_rate": 0.170492,
+        "cluster_id": "24",
+        "keywords": ["social", "community", "connection"],
+        "trend_status": "emerging"
+      },
+      {
+        "rank": 25,
+        "topic": "innovation, creativity, inspiration",
+        "growth_rate": 0.159259,
+        "cluster_id": "25",
+        "keywords": ["innovation", "creativity", "inspiration"],
+        "trend_status": "established"
+      }
+    ]
+  },
+  "summary_statistics": {
+    "30_days": {
+      "total_trends": 25,
+      "average_growth_rate": 0.456789,
+      "highest_growth_rate": 1.385609,
+      "lowest_growth_rate": 0.119259,
+      "emerging_trends": 12,
+      "established_trends": 10,
+      "decaying_trends": 3
+    },
+    "60_days": {
+      "total_trends": 25,
+      "average_growth_rate": 0.478912,
+      "highest_growth_rate": 1.358983,
+      "lowest_growth_rate": 0.139259,
+      "emerging_trends": 12,
+      "established_trends": 10,
+      "decaying_trends": 3
+    },
+    "90_days": {
+      "total_trends": 25,
+      "average_growth_rate": 0.491234,
+      "highest_growth_rate": 1.360741,
+      "lowest_growth_rate": 0.159259,
+      "emerging_trends": 12,
+      "established_trends": 10,
+      "decaying_trends": 3
+    }
+  }
+}

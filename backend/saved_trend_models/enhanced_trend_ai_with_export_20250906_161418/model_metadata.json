@@ -1,0 +1,15 @@
+{
+  "model_type": "EnhancedTrendAI",
+  "creation_date": "2025-09-06T16:14:18.269639",
+  "model_name": "enhanced_trend_ai_with_export_20250906_161418",
+  "components_saved": [
+    "sentiment_analyzer"
+  ],
+  "model_parameters": {
+    "video_weight_factor": null,
+    "comment_weight_factor": null,
+    "tag_weight_factor": null
+  },
+  "data_shapes": {},
+  "version": "1.0.0"
+}

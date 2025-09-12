@@ -1,0 +1,702 @@
+{
+  "metadata": {
+    "generation_date": "2025-09-06T14:43:22.310439",
+    "forecast_range_days": 100,
+    "top_topics_count": 10,
+    "data_points_per_topic": 10
+  },
+  "topics": {
+    "india, beautiful, pakistan": {
+      "cluster_id": "7",
+      "topic_keywords": [
+        "india",
+        "beautiful",
+        "pakistan"
+      ],
+      "average_growth_rate": 1.361792,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 1.315913,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 1.382972,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 1.385609,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 1.350944,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 1.304119,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 1.358983,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 1.402897,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 1.365846,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 1.360741,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 1.389898,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "india, indian, best": {
+      "cluster_id": "20",
+      "topic_keywords": [
+        "india",
+        "indian",
+        "best"
+      ],
+      "average_growth_rate": 0.797364,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.705381,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.72827,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.75013,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.737087,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.782469,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.853159,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.883523,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.845486,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.825463,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.862675,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "russian, russia, makeup": {
+      "cluster_id": "12",
+      "topic_keywords": [
+        "russian",
+        "russia",
+        "makeup"
+      ],
+      "average_growth_rate": 0.784826,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.764147,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.770231,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.758924,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.767565,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.806917,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.794836,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.801325,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.788771,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.781284,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.814262,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "women, men, girl": {
+      "cluster_id": "14",
+      "topic_keywords": [
+        "women",
+        "men",
+        "girl"
+      ],
+      "average_growth_rate": 0.606134,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.557627,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.605522,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.605788,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.574495,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.628124,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.676929,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.636559,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.510266,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.57275,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.693279,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "que, linda, para": {
+      "cluster_id": "6",
+      "topic_keywords": [
+        "que",
+        "linda",
+        "para"
+      ],
+      "average_growth_rate": 0.51249,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.527073,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.439443,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.514365,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.538093,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.558653,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.490832,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.464561,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.548443,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.491554,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.551883,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "song, best, music": {
+      "cluster_id": "11",
+      "topic_keywords": [
+        "song",
+        "best",
+        "music"
+      ],
+      "average_growth_rate": 0.460464,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.383783,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.442831,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.441445,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.439916,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.450062,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.476999,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.484132,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.49177,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.500637,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.493065,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "people, why, dont": {
+      "cluster_id": "9",
+      "topic_keywords": [
+        "people",
+        "why",
+        "dont"
+      ],
+      "average_growth_rate": 0.446998,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.406299,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.425504,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.430321,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.464321,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.48504,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.490569,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.459005,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.450828,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.423274,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.434821,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "hai, makeup, aap": {
+      "cluster_id": "3",
+      "topic_keywords": [
+        "hai",
+        "makeup",
+        "aap"
+      ],
+      "average_growth_rate": 0.398702,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.357432,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.339934,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.330194,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.340605,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.416943,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.448088,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.433124,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.431009,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.430725,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.458968,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "skin, face, skincare": {
+      "cluster_id": "18",
+      "topic_keywords": [
+        "skin",
+        "face",
+        "skincare"
+      ],
+      "average_growth_rate": 0.31827,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.211092,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.264713,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.285636,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.291029,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.331577,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.358954,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.359902,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.357048,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.363817,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.358929,
+          "date": "2025-12-15"
+        }
+      ]
+    },
+    "hair, curly, curls": {
+      "cluster_id": "19",
+      "topic_keywords": [
+        "hair",
+        "curly",
+        "curls"
+      ],
+      "average_growth_rate": 0.300679,
+      "daily_forecasts": [
+        {
+          "day": 10,
+          "growth_rate": 0.241761,
+          "date": "2025-09-16"
+        },
+        {
+          "day": 20,
+          "growth_rate": 0.262124,
+          "date": "2025-09-26"
+        },
+        {
+          "day": 30,
+          "growth_rate": 0.308978,
+          "date": "2025-10-06"
+        },
+        {
+          "day": 40,
+          "growth_rate": 0.315628,
+          "date": "2025-10-16"
+        },
+        {
+          "day": 50,
+          "growth_rate": 0.348717,
+          "date": "2025-10-26"
+        },
+        {
+          "day": 60,
+          "growth_rate": 0.307561,
+          "date": "2025-11-05"
+        },
+        {
+          "day": 70,
+          "growth_rate": 0.280169,
+          "date": "2025-11-15"
+        },
+        {
+          "day": 80,
+          "growth_rate": 0.299928,
+          "date": "2025-11-25"
+        },
+        {
+          "day": 90,
+          "growth_rate": 0.309758,
+          "date": "2025-12-05"
+        },
+        {
+          "day": 100,
+          "growth_rate": 0.332167,
+          "date": "2025-12-15"
+        }
+      ]
+    }
+  },
+  "aggregated_daily_data": [
+    {
+      "day": 10,
+      "date": "2025-09-16",
+      "average_market_growth": 0.310686,
+      "total_growth_sum": 7.767161,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 20,
+      "date": "2025-09-26",
+      "average_market_growth": 0.324711,
+      "total_growth_sum": 8.117763,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 30,
+      "date": "2025-10-06",
+      "average_market_growth": 0.331761,
+      "total_growth_sum": 8.294028,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 40,
+      "date": "2025-10-16",
+      "average_market_growth": 0.337144,
+      "total_growth_sum": 8.428597,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 50,
+      "date": "2025-10-26",
+      "average_market_growth": 0.357797,
+      "total_growth_sum": 8.944928,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 60,
+      "date": "2025-11-05",
+      "average_market_growth": 0.369269,
+      "total_growth_sum": 9.231714,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 70,
+      "date": "2025-11-15",
+      "average_market_growth": 0.365676,
+      "total_growth_sum": 9.141894,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 80,
+      "date": "2025-11-25",
+      "average_market_growth": 0.362638,
+      "total_growth_sum": 9.065953,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 90,
+      "date": "2025-12-05",
+      "average_market_growth": 0.361718,
+      "total_growth_sum": 9.042949,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    },
+    {
+      "day": 100,
+      "date": "2025-12-15",
+      "average_market_growth": 0.380709,
+      "total_growth_sum": 9.517717,
+      "positive_trends_count": 25,
+      "total_clusters_analyzed": 25
+    }
+  ]
+}

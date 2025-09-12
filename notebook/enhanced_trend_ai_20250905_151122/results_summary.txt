@@ -1,0 +1,20 @@
+ENHANCED TREND ANALYSIS RESULTS SUMMARY
+==================================================
+
+Analysis Date: 2025-09-05 15:11:22
+Total Comments Analyzed: 3,651,864
+Total Videos Analyzed: 92,759
+Topics Identified: 25
+Model Name: enhanced_trend_ai_20250905_151122
+Forecast Horizon: 80 days
+
+Top 5 Trending Topics:
+1. india, beautiful, pakistan - Growth: 123.5%
+2. russian, russia, makeup - Growth: 67.8%
+3. people, why, dont - Growth: 65.7%
+4. que, linda, para - Growth: 60.8%
+5. name, girl, cute - Growth: 37.8%
+
+Model Components Saved:
+- sentiment_analyzer
+- metadata
